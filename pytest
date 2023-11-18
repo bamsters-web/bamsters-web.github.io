@@ -1,2 +1,3 @@
-shop = "bambos's Coffee Shop"
+shop_name = "bambos's Coffee Shop"
 
+print(shop_name)
